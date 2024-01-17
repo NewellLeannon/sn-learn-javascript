@@ -25,4 +25,4 @@ else
 
 if (a < b)
   if (b < c)
-      gs.info('a b c are in order');
+      gs.info('a b c are in order'); 
